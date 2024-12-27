@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at [github.com/leminhbao308](https://github.com/leminhbao308)
+- 👨‍💻 All of my projects are available at [github.com/leminhbao308](https://github.com/tranquoccuong0179)
 
 - 💬 Ask me about **Java, Java Script, NodeJS**
 
@@ -23,10 +23,10 @@
 
 <h3 align="center">My Stats:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leminhbao308&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tranquoccuong0179&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leminhbao308&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquoccuong0179&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <h3 align="left">Buy me a Ko-Fi?</h3>
