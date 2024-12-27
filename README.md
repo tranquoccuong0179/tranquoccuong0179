@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at [github.com/leminhbao308](https://github.com/tranquoccuong0179)
+- 👨‍💻 All of my projects are available at [github.com/tranquoccuong0179](https://github.com/tranquoccuong0179)
 
-- 💬 Ask me about **Java, Java Script, NodeJS**
+- 💬 Ask me about **Java, C#**
 
-- 📫 How to reach me **leminhbao.work@gmail.com (1-2 days to respond)**
+- 📫 How to reach me **tranquoccuong0179@gmail.com (1-2 days to respond)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
