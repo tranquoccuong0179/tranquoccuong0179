@@ -25,7 +25,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquoccuong0179&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<h3 align="left">Buy me a Ko-Fi?</h3>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0PBHBO)
