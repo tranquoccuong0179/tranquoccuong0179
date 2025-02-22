@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trần Quốc Cường</h1>
 <h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
 
-- 🔭 I’m currently working at [Cat Studio](discord.gg/j9RGkkgvhf)
-
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
 - 👨‍💻 All of my projects are available at [github.com/tranquoccuong0179](https://github.com/tranquoccuong0179)
