@@ -29,8 +29,8 @@
           <br>.NET
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="JavaScript" width="65" height="65" />
-          <br>JavaScript
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+          <br>TypeScript
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
