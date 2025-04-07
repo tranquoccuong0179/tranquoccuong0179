@@ -82,15 +82,13 @@
   </table>
 </div>
 
+<h3 align="center">💻 My Stats 💻</h3>
 
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=tranquoccuong0179&hide_border=true&theme=transparent&show_icons=true&include_all_commits=true&title_color=007ACC&icon_color=007ACC&text_color=007ACC" />
 
-<h3 align="center">My Stats:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tranquoccuong0179&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquoccuong0179&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquoccuong0179&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320&title_color=007ACC&text_color=007ACC" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquoccuong0179&theme=transparent&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FF6B00&sideLabels=FF6B00&sideNums=FF6B00" />
