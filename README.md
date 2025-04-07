@@ -92,5 +92,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquoccuong0179&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tranquoccuong0179&" alt="tranquoccuong0179" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquoccuong0179&theme=transparent&hide_border=true" alt="tranquoccuong0179" />
+</p>
 
