@@ -93,6 +93,6 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquoccuong0179&theme=transparent&hide_border=true" alt="tranquoccuong0179" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquoccuong0179&theme=transparent&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FF6B00&sideLabels=FF6B00&sideNums=FF6B00" />
 </p>
 
