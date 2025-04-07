@@ -11,8 +11,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/tranquoccuong107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lmbao.broseidon308" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/tranquoccuong107" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tranquoccuong107" style="height: 30px; width: 30px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/cuongtrandevbe" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="cuongtrandevbe" style="height: 30px; width: 30px; object-fit: cover;" />
+    </a>
 </p>
+
 
 <div align="center">
   
