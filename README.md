@@ -28,8 +28,16 @@
   <table>
     <tr>
       <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+          <br>Java
+      </td>
+      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
           <br>Spring
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
+          <br>C#
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
