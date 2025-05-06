@@ -97,7 +97,7 @@
   </table>
 </div>
 
-<h3 align="center">💻 My Stats 💻</h3>
+<h3 align="center">💻 My Stats! 💻</h3>
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=tranquoccuong0179&hide_border=true&theme=transparent&show_icons=true&include_all_commits=true&title_color=007ACC&icon_color=007ACC&text_color=007ACC" />
